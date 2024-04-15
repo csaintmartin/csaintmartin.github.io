@@ -4,20 +4,23 @@ main:
     url: ./#contact 
     right: true 
 
-  - title: "Services"
-    url: ./#services
+  - title: "Recherche"
+    url: /communications/
 
-  - title: "Communications"
-    url: ./#communications
+  # - title: "Services"
+  #   url: ./#services
 
-  #- title: "Teaching"
-  #  url: ./#teaching
+  # - title: "Communications"
+  #   url: ./#communications
 
-  - title: "Publications"
-    url: ./#publications
+  # #- title: "Teaching"
+  # #  url: ./#teaching
 
-  #- title: "News"
-  #  url: ./#news
+  # - title: "Publications"
+  #   url: ./#publications
 
-  - title: "Bio"
-    url: ./#brief-bio
+  # #- title: "News"
+  # #  url: ./#news
+
+  # - title: "Bio"
+  #   url: ./#brief-bio
