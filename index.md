@@ -4,9 +4,9 @@ layout: homepage
 
 ## À propos de moi
 
-Je suis doctorante en sciences pour l'ingénieur au laboratoire SYstèmes et Matériaux pour la MÉcatronique (SYMME) à Annecy-le-Vieux sous la direction de [Ludovic Charleux](https://www.researchgate.net/profile/Ludovic-Charleux), d'[Adrien Morel](https://www.researchgate.net/profile/Adrien-Morel-2) et [Emile Roux](https://emilerouxsmb.github.io/).
+Je suis doctorante en sciences pour l'ingénieur au laboratoire SYstèmes et Matériaux pour la MÉcatronique (SYMME) à Annecy-le-Vieux sous la direction de [Ludovic Charleux](https://www.researchgate.net/profile/Ludovic-Charleux), [Adrien Morel](https://www.researchgate.net/profile/Adrien-Morel-2) et [Emile Roux](https://emilerouxsmb.github.io/).
 
-Ma thèse, intitulée *Vers une optimisation des performances des récupérateurs d’énergie vibratoire non linéaires* consiste en une étude détaillée de la dynamiques et des performances associées aux récupérateurs d'énergie vibratoire bistables.
+Ma thèse, intitulée *Vers une optimisation des performances des récupérateurs d’énergie vibratoire non linéaires* propose une étude détaillée de la dynamiques et des performances associées aux récupérateurs d'énergie vibratoire bistables.
 
 Ma soutenance de thèse est prévue le 3 juin 2024.
 
