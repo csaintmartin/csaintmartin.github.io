@@ -28,12 +28,20 @@ main:
     notes: Published letter
     image: ./assets/img/teaser_combining.png
     
-
   - title: "Optimized and robust orbit jump for nonlinear vibration energy harvesters"
     authors: <strong>Camille Saint-Martin*</strong>, Adrien Morel, Ludovic Charleux, Emile Roux, David Gibus, Aya Benhemou, Adrien Badel (*corresponding author)
     conference_short: Nonlinear Dynamics
     conference: Nonlinear Dynamics, 2024.
     pdf: https://link.springer.com/article/10.1007/s11071-023-09188-x
-    bibtex: ./assets/bibtex/SaintMartin2024-optimizedRobustOrbitJump
+    bibtex: ./assets/bibtex/SaintMartin2024-optimizedRobustOrbitJump.txt
     notes: Published article
     image: ./assets/img/teaser_robustJumps.png
+
+  - title: "Predictive lumped model for a tunable bistable piezoelectric energy harvester architecture"
+    authors: Aya Benhemou*, David Gibus, Thomas Huguet, Adrien Morel, Demouron Quentin, <strong>Camille Saint-Martin</strong>, Emile Roux, Ludovic Charleux, Adrien Badel (*corresponding author)
+    conference_short: SMS
+    conference: Smart Materials and Structures <strong>(SMS)</strong>, 2024.
+    bibtex: ./assets/bibtex/Benhemou2024-predictiveLumpedModel.txt
+    notes: Published article
+    image: ./assets/img/teaser_predictive.png
+    

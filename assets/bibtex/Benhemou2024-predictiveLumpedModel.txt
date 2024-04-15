@@ -1,0 +1,17 @@
+@article{benhemou2024predictive,
+  title={Predictive lumped model for a tunable bistable piezoelectric energy harvester architecture},
+  author={Benhemou, Aya and 
+        Gibus, David and 
+        Huguet, Thomas and 
+        Morel, Adrien and 
+        Demouron, Quentin and 
+        Saint-Martin, Camille and 
+        Roux, Emile and 
+        Charleux, Ludovic and 
+        Badel, Adrien},
+  journal={Smart Materials and Structures},
+  volume={33},
+  pages={045033}
+  year={2024},
+  publisher = {IOP Publishing},
+}
