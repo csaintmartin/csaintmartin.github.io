@@ -1,0 +1,19 @@
+@article{morel2022simpleAnalytical,
+  title={Simple analytical models and analysis of bistable vibration energy harvesters},
+  author={Morel, Adrien and 
+        Charleux, Ludovic and 
+        Demouron, Quentin and 
+        Benhemou, Aya and 
+        Gibus, David and 
+        Saint-Martin, Camille and 
+        Carr{\'e}, Aur{\'e}lien and 
+        Roux, {\'E}mile and 
+        Huguet, Thomas and 
+        Badel, Adrien},
+  journal={Smart Materials and Structures},
+  volume={31},
+  number={10},
+  pages={105016},
+  year={2022},
+  publisher={IOP Publishing}
+}

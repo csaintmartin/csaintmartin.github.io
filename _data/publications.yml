@@ -9,13 +9,15 @@ main:
     image: ./assets/img/teaser_power-expectation.png
     notes: Published
 
-  # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-  #   authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-  #   conference_short: CVPR
-  #   conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-  #   pdf: https://arxiv.org/pdf/2002.10211.pdf
+  - title: "Simple analytical models and analysis of bistable vibration energy harvesters"
+    authors: Adrien Morel, Ludovic Charleux, Quentin Demouron, Aya Benhemou, David Gibus, <strong>Camille Saint-Martin</strong>, Aurélien Carré, Emile Roux, Thomas Huguet, Adrien Badel
+    conference_short: SMS
+    conference: I. Smart Materials and Structures <strong>(SMS)</strong>, 2022.
+    pdf: https://hal.science/hal-03765636v1/document
   #   code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
   #   page: https://class-il.mpi-inf.mpg.de/mnemonics/
-  #   bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-  #   notes: Oral Presentation
-  #   image: ./assets/img/teaser_example.png
+    bibtex: ./assets/bibtex/Morel2022-simpleAnalytical.txt
+    notes: Published
+    image: ./assets/img/teaser_simple-analytical.png
+
+  
