@@ -4,7 +4,7 @@ main:
     authors: <strong>Camille Saint-Martin*</strong>, Adrien Morel, Ludovic Charleux, Emile Roux, Aya Benhemou, Adrien Badel (*Corresponding author)
     conference_short: MSSP
     conference: Mechanical Systems and Signal Processing <strong>(MSSP)</strong>, 2022.
-    pdf: https://nantes-universite.hal.science/SYMME/hal-03737305v1
+    pdf: https://hal.science/hal-03737305v1/document
     bibtex: ./assets/bibtex/SaintMartin2022-powerExpectation.txt
     image: ./assets/img/teaser_power-expectation.png
     notes: Published
