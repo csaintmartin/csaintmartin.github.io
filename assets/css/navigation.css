@@ -1,11 +1,11 @@
 /* Add a black background color to the top navigation */
 .topnav {
-    background-color: #033c86;
+    background-color: #0f4388;
     overflow: hidden;
 	position:fixed;
 	z-index:999;
     width:100%;
-    height: 25px;
+    height: 10px;
   }
 
 
