@@ -5,7 +5,7 @@
 	position:fixed;
 	z-index:999;
     width:100%;
-    height: 373px;
+    /* height: 373px; */
   }
 
 
@@ -19,7 +19,7 @@
 
   /* .topnav img {
     margin-bottom:0.5pt;
-    margin-top:0.5pt;
+    margin-top:-5pt;
     margin-left:30%;
   } */
   
