@@ -7,8 +7,8 @@ main:
   - title: "Services"
     url: ./#services
 
-  #- title: "Talks"
-  #  url: ./#invited-talks
+  - title: "Communications"
+    url: ./#communications
 
   #- title: "Teaching"
   #  url: ./#teaching

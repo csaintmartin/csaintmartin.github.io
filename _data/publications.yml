@@ -3,7 +3,7 @@ main:
   - title: Power expectation as a unified metric for the evaluation of vibration energy harvesters
     authors: <strong>Camille Saint-Martin*</strong>, Adrien Morel, Ludovic Charleux, Emile Roux, Aya Benhemou, Adrien Badel (*corresponding author)
     conference_short: MSSP
-    conference: Mechanical Systems and Signal Processing <strong>(MSSP)</strong>, 2022.
+    conference: Mechanical Systems and Signal Processing <strong>(MSSP)</strong>, <strong>2022</strong>.
     pdf: https://hal.science/hal-03737305v1/document
     bibtex: ./assets/bibtex/SaintMartin2022-powerExpectation.txt
     image: ./assets/img/teaser_power-expectation.png
@@ -12,7 +12,7 @@ main:
   - title: "Simple analytical models and analysis of bistable vibration energy harvesters"
     authors: Adrien Morel*, Ludovic Charleux, Quentin Demouron, Aya Benhemou, David Gibus, <strong>Camille Saint-Martin</strong>, Aurélien Carré, Emile Roux, Thomas Huguet, Adrien Badel (*corresponding author)
     conference_short: SMS
-    conference: Smart Materials and Structures <strong>(SMS)</strong>, 2022.
+    conference: Smart Materials and Structures <strong>(SMS)</strong>, <strong>2022</strong>.
     pdf: https://hal.science/hal-03765636v1/document
   #   code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
   #   page: https://class-il.mpi-inf.mpg.de/mnemonics/
@@ -23,7 +23,7 @@ main:
   - title: "Combining orbit jump and potential wells optimizations for nonlinear vibration energy harvesters"
     authors: <strong>Camille Saint-Martin*</strong>, Adrien Morel, Ludovic Charleux, Emile Roux, David Gibus, Aya Benhemou, Adrien Badel (*corresponding author)
     conference_short: SMS
-    conference: Smart Materials and Structures <strong>(SMS)</strong>, 2023.
+    conference: Smart Materials and Structures <strong>(SMS)</strong>, <strong>2023</strong>.
     bibtex: ./assets/bibtex/SaintMartin2023-combiningOrbitJumpPotentialWellOptimizations.txt
     notes: Published letter
     image: ./assets/img/teaser_combining.png
@@ -40,7 +40,7 @@ main:
   - title: "Predictive lumped model for a tunable bistable piezoelectric energy harvester architecture"
     authors: Aya Benhemou*, David Gibus, Thomas Huguet, Adrien Morel, Demouron Quentin, <strong>Camille Saint-Martin</strong>, Emile Roux, Ludovic Charleux, Adrien Badel (*corresponding author)
     conference_short: SMS
-    conference: Smart Materials and Structures <strong>(SMS)</strong>, 2024.
+    conference: Smart Materials and Structures <strong>(SMS)</strong>, <strong>2024</strong>.
     bibtex: ./assets/bibtex/Benhemou2024-predictiveLumpedModel.txt
     notes: Published article
     image: ./assets/img/teaser_predictive.png
