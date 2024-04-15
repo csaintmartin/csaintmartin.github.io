@@ -1,0 +1,15 @@
+@article{saint-martin2023combining,
+  title={Combining orbit jump and potential wells optimizations for nonlinear vibration energy harvesters},
+  author={Saint-Martin, Camille and
+            Morel, Adrien and 
+            Charleux, Ludovic and 
+            Roux, Emile and 
+            Gibus, David and
+            Benhemou, Aya and 
+            Badel, Adrien},
+  journal={Smart Materials and Structures},
+  volume={33},
+  pages={01LT01},
+  year={2023},
+  publisher={IOP Publishing}
+}
