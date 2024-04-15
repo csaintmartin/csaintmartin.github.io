@@ -19,3 +19,6 @@ Disponible pour présenter mon travail dans des séminaires et participer à des
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
+
+{% include_relative _includes/contact.md %}
+
