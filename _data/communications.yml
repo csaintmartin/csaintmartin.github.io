@@ -24,4 +24,12 @@ main:
     image: ./assets/img/teaser_ENOC.png
     notes: Oral presentation
 
+  - title: Escape from the potential well of bistable vibration energy harvesters using buckling level modifications.
+    authors: <strong>Camille Saint-Martin</strong>, Adrien Morel, Ludovic Charleux, Emile Roux, Adrien Badel 
+    conference_short: NODYCON
+    conference: Third International Nonlinear Dynamics Conference. <strong>(NODYCON)</strong>, 2023.
+    pdf: https://hal.science/hal-04084977/document
+    image: ./assets/img/teaser_NODYCON.png
+    notes: Oral presentation
+
   
