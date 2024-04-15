@@ -1,4 +1,4 @@
-@article{saint2022power,
+@article{saint-martin2022power,
   title={Power expectation as a unified metric for the evaluation of vibration energy harvesters},
   author={Saint-Martin, Camille and
             Morel, Adrien and 
