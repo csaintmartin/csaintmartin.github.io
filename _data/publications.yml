@@ -29,4 +29,11 @@ main:
     image: ./assets/img/teaser_combining.png
     
 
-
+  - title: "Optimized and robust orbit jump for nonlinear vibration energy harvesters"
+    authors: <strong>Camille Saint-Martin*</strong>, Adrien Morel, Ludovic Charleux, Emile Roux, David Gibus, Aya Benhemou, Adrien Badel (*corresponding author)
+    conference_short: Nonlinear Dynamics
+    conference: Nonlinear Dynamics, 2024.
+    pdf: https://link.springer.com/article/10.1007/s11071-023-09188-x
+    bibtex: ./assets/bibtex/SaintMartin2024-optimizedRobustOrbitJump
+    notes: Published article
+    image: ./assets/img/teaser_robustJumps.png
