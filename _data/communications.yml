@@ -1,0 +1,19 @@
+main:
+
+  - title: Performance assessment of a Duffing-type vibration energy harvester.
+    authors: <strong>Camille Saint-Martin</strong>, Ludovic Charleux, Emile Roux, Aya Benhemou, Adrien Badel 
+    conference_short: JNRSE
+    conference: Journées Nationales sur la Récupération et le Stockage de l’Energie. <strong>(JNRSE)</strong>, 2022.
+    pdf: https://hal.science/hal-03297196/file/poster_jnrse2021.pdf
+    image: ./assets/img/teaser_JNRSE.png
+    notes: Poster
+
+  - title: Statistical performance assessment of a bistable vibration energy harvester.
+    authors: <strong>Camille Saint-Martin</strong>, Adrien Morel, Ludovic Charleux, Emile Roux, Aya Benhemou, Adrien Badel 
+    conference_short: IWPMA
+    conference: International Workshop on Piezoelectric Materials and Applications in Actuators. <strong>(IWPMA)</strong>, 2021.
+    pdf: https://hal.science/hal-03386499v1/file/CSaintMartin_IWPMA.pdf
+    image: ./assets/img/teaser_IWPMA.png
+    notes: Oral presentation
+
+  
