@@ -23,11 +23,11 @@ linkedin: https://www.linkedin.com/in/camille-saint-martin-792824116/
 # twitter: https://twitter.com/
 
 url: https://csaintmartin.github.io
-languages: ["fr", "en"]
-defaultLang: fr
-languageNames:
-  fr: French
-  en: English
+# languages: ["fr", "en"]
+# defaultLang: fr
+# languageNames:
+#   fr: French
+#   en: English
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
@@ -52,6 +52,13 @@ analytics:
   provider               : false # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
+
+
+google_analytics: G-7S3FZQT6X9 # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
+cronitor_analytics:  # cronitor RUM analytics site ID (format: XXXXXXXXX)
+
+google_site_verification: 9EtdHuZku-_oOvaB4xIe-WPx681ROq46XpMecGGmyv0 # your google-site-verification ID (Google Search Console)
+bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics
 # google_analytics: UA-111540567-4

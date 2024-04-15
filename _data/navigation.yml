@@ -19,5 +19,5 @@ main:
   #- title: "News"
   #  url: ./#news
 
-  - title: "Bio"
-    url: ./#brief-bio
+  # - title: "Bio"
+  #   url: ./#brief-bio
