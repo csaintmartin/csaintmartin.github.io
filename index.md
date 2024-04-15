@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-## \'A propos de moi
+## À propos de moi
 
 Je suis doctorante au laboratoire SYMME... 
 
