@@ -16,4 +16,12 @@ main:
     image: ./assets/img/teaser_IWPMA.png
     notes: Oral presentation
 
+  - title: Controlling orbits in nonlinear vibration energy harvesters dynamics.
+    authors: <strong>Camille Saint-Martin</strong>, Adrien Morel, Ludovic Charleux, Emile Roux, Adrien Badel 
+    conference_short: ENOC
+    conference: 10th European Nonlinear Dynamics Conference. <strong>(ENOC)</strong>, 2022.
+    pdf: https://hal.science/hal-03776678/document
+    image: ./assets/img/teaser_ENOC.png
+    notes: Oral presentation
+
   
