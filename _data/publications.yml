@@ -3,7 +3,7 @@ main:
   - title: Power expectation as a unified metric for the evaluation of vibration energy harvesters
     authors: <strong>Camille Saint-Martin*</strong>, Adrien Morel, Ludovic Charleux, Emile Roux, Aya Benhemou, Adrien Badel (*Corresponding author)
     conference_short: MSSP
-    conference: Mechanical Systems and Signal Processing <strong>(MICCAI)</strong>, 2022.
+    conference: Mechanical Systems and Signal Processing <strong>(MSSP)</strong>, 2022.
     pdf: https://nantes-universite.hal.science/SYMME/hal-03737305v1
     bibtex: ./assets/bibtex/SaintMartin2022-powerExpectation.txt
     image: ./assets/img/teaser_power-expectation.png
