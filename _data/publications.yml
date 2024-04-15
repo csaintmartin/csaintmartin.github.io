@@ -5,8 +5,8 @@ main:
     conference_short: MICCAI
     conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
     pdf: https://nantes-universite.hal.science/SYMME/hal-03737305v1
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/power_expectation.pdf
+    bibtex: ./assets/bibtex/SaintMartin2022-powerExpectation.txt
+    image: ./assets/img/teaser_power-expectation.png
     notes: Published
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"

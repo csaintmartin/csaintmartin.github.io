@@ -1,0 +1,14 @@
+@article{saint2022power,
+  title={Power expectation as a unified metric for the evaluation of vibration energy harvesters},
+  author={Saint-Martin, Camille and
+            Morel, Adrien and 
+            Charleux, Ludovic and 
+            Roux, Emile and 
+            Benhemou, Aya and 
+            Badel, Adrien},
+  journal={Mechanical Systems and Signal Processing},
+  volume={181},
+  pages={109482},
+  year={2022},
+  publisher={Elsevier}
+}
