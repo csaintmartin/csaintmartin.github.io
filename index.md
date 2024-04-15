@@ -4,7 +4,7 @@ layout: homepage
 
 ## À propos de moi
 
-Je suis doctorante au laboratoire SYMME... 
+Je suis doctorante au laboratoire SYMME, SYstèmes et Matériaux pour la MÉcatronique
 
 ## Mes travaux de recherche
 
