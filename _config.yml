@@ -1,3 +1,5 @@
+
+
 # Basic Information 
 title: Camille Saint-Martin
 position: Doctorante
@@ -20,6 +22,13 @@ github_link: https://github.com/csaintmartin
 linkedin: https://www.linkedin.com/in/camille-saint-martin-792824116/
 # twitter: https://twitter.com/
 
+url: https://csaintmartin.github.io
+languages: ["fr", "en"]
+defaultLang: fr
+languageNames:
+  fr: French
+  en: English
+
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/my-picture.png
@@ -38,13 +47,21 @@ auto_dark_mode: true
 # You can use this option to choose between Serif or Sans Serif fonts.
 font: "Serif" # or "Sans Serif"
 
+# Analytics
+analytics:
+  provider               : false # false (default), "google", "google-universal", "custom"
+  google:
+    tracking_id          :
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics
-google_analytics: UA-111540567-4
+# google_analytics: UA-111540567-4
 
 # Use this project as a remote theme for GitHub Pages
 # See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
 remote_theme: yaoyao-liu/minimal-light
+
+include:
+  - _pages
 
 # The following files will be removed from the generated website.
 exclude:
