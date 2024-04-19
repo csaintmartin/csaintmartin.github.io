@@ -24,7 +24,7 @@ Mes travaux de recherche visent à :
 À la suite de mon doctorat, je souhaite mener des recherches en neurosciences computationnelles afin de contribuer à une meilleure connaissance de notre cerveau.
 Je recherche un post-doctorat en mathématiques appliquées, de préférence, aux neurosciences. 
 
-Je suis disponible pour présenter mes travaux lors de séminaires de laboratoires.
+Je suis disponible pour présenter mes travaux lors de séminaires de laboratoire.
 
 {% include_relative _includes/publications.md %}
 
