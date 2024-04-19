@@ -4,8 +4,8 @@ main:
     url: ./#contact 
     right: true 
 
-  - title: "Services"
-    url: ./#services
+  - title: "Missions"
+    url: ./#missions
 
   - title: "Communications"
     url: ./#communications
