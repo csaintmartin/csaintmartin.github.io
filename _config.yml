@@ -38,6 +38,9 @@ favicon_dark: ./assets/img/my-favicon.png
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
 enable_footnote: true
+enable_google_analytics:    true
+enable_google_verification: true
+
 
 # Auto Dark Mode
 # You may use the option to disable the automatic dark theme
@@ -51,13 +54,14 @@ font: "Serif" # or "Sans Serif"
 analytics:
   provider               : false # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : G-7S3FZQT6X9
 
 
-google_analytics: G-7S3FZQT6X9 # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
+# google_analytics: G-7S3FZQT6X9 # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
 cronitor_analytics:  # cronitor RUM analytics site ID (format: XXXXXXXXX)
 
-google_site_verification: 9EtdHuZku-_oOvaB4xIe-WPx681ROq46XpMecGGmyv0 # your google-site-verification ID (Google Search Console)
+# google_site_verification: 9EtdHuZku-_oOvaB4xIe-WPx681ROq46XpMecGGmyv0 # your google-site-verification ID (Google Search Console)
+google_site_verification: google310b95f7594e8600.html #tOAm3PiQJhSUFivxSNCA0qHV1ha_DpBDzwxRSn-yEP4
 bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics

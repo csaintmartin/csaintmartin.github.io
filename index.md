@@ -8,7 +8,7 @@ Je suis doctorante en sciences pour l'ingénieur au laboratoire SYstèmes et Mat
 
 Ma thèse, intitulée *Vers une optimisation des performances des récupérateurs d’énergie vibratoire non linéaires* propose une étude détaillée de la dynamiques et des performances associées aux récupérateurs d'énergie vibratoire bistables.
 
-Ma soutenance de thèse est prévue le 3 juin 2024 à Annecy-le-Vieux.
+J'ai soutenu ma thèse publiquement le 3 juin 2024 à Annecy-le-Vieux.
 
 ## Recherche
 
