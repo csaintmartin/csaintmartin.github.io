@@ -5,7 +5,6 @@ layout: homepage
 ## À propos de moi
 
 Je suis jeune docteure en sciences pour l'ingénieur.
-
 Ma thèse, intitulée *Vers une optimisation des performances des récupérateurs d’énergie vibratoire non linéaires* propose une étude détaillée de la dynamiques et des performances associées aux récupérateurs d'énergie vibratoire bistables.
 
 J'ai soutenu ma thèse publiquement le 3 juin 2024 à Annecy-le-Vieux.
