@@ -6,6 +6,6 @@
 <br />
 <strong>Bureau 323 situé à la </strong> Maison de la Mécatronique.
 <br />
-<strong>Email:</strong> <email>camille.saint-martin (at) univ-smb.fr</email>
+<strong>Email:</strong> <email>cam.stmartin (at) gmail.com</email>
 <br />
 <!-- <strong>Phone:</strong> (857) 209-8688</p> -->
