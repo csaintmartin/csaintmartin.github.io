@@ -20,9 +20,7 @@ Mes travaux de recherche visaient à :
 
 ## Poursuite de carrière
 
-Je recherche désormais un travail en tant qu'ingénieur en intelligence artificielle afin de continuer à mener de nouvelles recherches scientifiques.
-
-Je recherche un poste d’ingénieur en intelligence artificielle afin de mettre mes compétences en calcul scientifique et en modélisation au service de projets innovants.
+Je recherche désormais un travail en tant qu'ingénieure data scientist afin de continuer à mener de nouvelles recherches scientifiques, tout en conservant un fort aspect technique.
 
 {% include_relative _includes/publications.md %}
 
