@@ -20,7 +20,7 @@ Mes travaux de recherche visaient à :
 
 ## Poursuite de carrière
 
-Je recherche désormais un travail en tant qu'ingénieure data scientist afin de continuer à mener de nouvelles recherches scientifiques, tout en conservant un fort aspect technique.
+Je recherche désormais un travail dans lequel je pourrais continuer à mener de nouvelles recherches scientifiques, tout en conservant un fort aspect technique.
 
 {% include_relative _includes/publications.md %}
 
